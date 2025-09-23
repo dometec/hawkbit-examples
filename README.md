@@ -1,5 +1,9 @@
 <img src=hawkbit_logo.png width=533 height=246 />
 
+# 🚨 Deprecated
+
+⚠️ This repository is **no longer maintained** and is deprecated.  
+
 # Eclipse hawkBit™ - Examples collection
 
 Example projects that show how [hawkBit](https://github.com/eclipse/hawkbit) can be customized or hawkBit compatible APIs leveraged.
